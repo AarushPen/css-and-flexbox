@@ -1,0 +1,15 @@
+h1{
+    text-align: center;font-family: Brush Script MT;color:cyan; display:flex;background-color: darkgray;
+    align-items: center;justify-content: center;
+}
+
+.container{
+    background-color: floralwhite;
+    border-style: solid;
+}
+
+.grid{
+    background-color: lightseagreen;
+    padding: 20px;
+    border-style: dotted;
+}
